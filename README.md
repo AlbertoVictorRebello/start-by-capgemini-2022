@@ -9,7 +9,13 @@ The projects and activities developed along this course will be available here.
 You are invited to use the codes and improve them. It will be great if you have comments or suggestions to make them better. 
 
 ## Tecnologies And Tools
-GIT - PORTUGOL - VISUALG 3.0 - GITHUB
+<div>
+<img src="https://img.shields.io/static/v1?label=&message=GIT&color=blueviolet">
+<img src="https://img.shields.io/static/v1?label=&message=PORTUGOL &color=green">
+<img src="https://img.shields.io/static/v1?label=&message=VISUALG 3.0&color=yellowgreen">
+<img src="https://img.shields.io/static/v1?label=&message=GITHUB &color=orange">
+</div>
+
 
 ## List of Folders
 The master branch has the functional version of the projects. They are segregated in folders briefly described below for reference:
