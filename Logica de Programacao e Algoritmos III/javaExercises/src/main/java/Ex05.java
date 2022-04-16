@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex04 {
+public class Ex05 {
     static final float COMMISSION_FACTOR = 0.15f;
     public static void execute(Scanner scanner) {
 
