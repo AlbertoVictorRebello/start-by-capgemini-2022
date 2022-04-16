@@ -27,10 +27,10 @@ public class Main {
 //        Ex19.execute(scanner);
 //        Ex20.execute(scanner);
 //        Ex21.execute(scanner);
-        Ex22.execute(scanner);
+//        Ex22.execute(scanner);
 //        Ex23.execute(scanner);
 //        Ex24.execute(scanner);
-//        Ex25.execute(scanner);
+        Ex25.execute(scanner);
 //        Ex26.execute(scanner);
 //        Ex27.execute(scanner);
 
