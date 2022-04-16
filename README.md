@@ -34,4 +34,5 @@ Note: the folder names and the code are writen in portuguese to be in accordance
  The problems proposed are writen in prortuguese, in accordance with the oficial course language.|
 ## Usage Instructions
 - To execute the codes related to 'Logica de Programacao e Algoritmos' I and II is only required to install [VISUALG 3.0.7.0](https://visualg3.com.br/) or later versions.
-- To execute the codes related to  java exercises proposed along 'Logica de Programacao e Algoritmos III'  is only required build a new Java project in your prefered IDE and copy and paste the files on this repository folder named 'JavaExercises' into it.
+- To execute the codes related to  java exercises proposed along 'Logica de Programacao e Algoritmos III'  is only required to build a new Java project in your prefered IDE and copy and paste the files on this repository folder named 'JavaExercises' into it.
+   Each exrecise has its own class. To run each one uncomment the correspondent command lin on 'Main Class'.

@@ -1,17 +1,22 @@
 import java.util.Scanner;
 
-public class Ex07 {
+public class Ex08 {
     static final float COMMISSION_FACTOR = 0.15f;
     public static void execute(Scanner scanner) {
 
-        System.out.printf("==================== Temperature Conversor ========================\n");
-        System.out.println("Please, inform the temperature in Celsius degrees ºC:");
-        float celsiusTemperature = scanner.nextFloat();
+        System.out.printf("==================== Exchange Bank ========================\n");
+        System.out.println("Please, inform the total amount in dollar:");
+        float amountUSS = scanner.nextFloat();
 
+        System.out.println("Please, inform the rate:");
+        float rate = scanner.nextFloat();
 
-        float farenheitTemperature = (9 * celsiusTemperature + 160) / 5;
+        float amountBRL = amountUSS * rate;
 
-        System.out.printf("The temperature %.2f ºC is equivalent to %.2f ºF", celsiusTemperature, farenheitTemperature);
+        System.out.printf("The total amount in USS is %.2f\n", amountUSS);
+        System.out.printf("The rate is %.2f\n", rate);
+        System.out.printf("The total amount in BRL is %.2f", amountBRL);
+        System.out.println();
 
     }
 }
