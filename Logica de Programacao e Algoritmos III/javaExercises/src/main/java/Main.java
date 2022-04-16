@@ -22,12 +22,12 @@ public class Main {
 //        Ex16.execute(scanner);
 //        Ex16.execute(scanner);
 //        Ex16.execute(scanner);
-        Ex17.execute(scanner);
+//        Ex17.execute(scanner);
 //        Ex18.execute(scanner);
 //        Ex19.execute(scanner);
 //        Ex20.execute(scanner);
 //        Ex21.execute(scanner);
-//        Ex22.execute(scanner);
+        Ex22.execute(scanner);
 //        Ex23.execute(scanner);
 //        Ex24.execute(scanner);
 //        Ex25.execute(scanner);
