@@ -34,5 +34,5 @@ Note: the folder names and the code are writen in portuguese to be in accordance
 | Lógica para Programação III - JAVA.pdf | The problems's descriptions are writen in prortuguese, in accordance with the oficial course language.                                                                                                                            |
 ## Usage Instructions
 - To execute the codes related to 'Logica de Programacao e Algoritmos' I and II is only required to install [VISUALG 3.0.7.0](https://visualg3.com.br/) or later versions.
-- To execute the codes related to  java exercises proposed along 'Logica de Programacao e Algoritmos III'  is only required to build a new Java project in your prefered IDE and copy and paste the files on this repository folder named 'JavaExercises' into it.
-   Each exercise has its own class. To run each one uncomment the correspondent command lin on 'Main Class'.
+- To execute the codes related to  java exercises proposed along 'Logica de Programacao e Algoritmos III'  is only required to build a new Java project using your prefered IDE, copy and paste the files from the git repository folder named 'JavaExercises' into your project.
+   Each exercise has its own class. To run each one at a time, uncomment the correspondent command lin on 'Main Class'.
