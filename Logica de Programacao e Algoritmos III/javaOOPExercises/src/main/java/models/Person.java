@@ -1,11 +1,13 @@
+package models;
+
 import java.time.LocalDate;
 import java.time.Period;
 import java.time.format.DateTimeFormatter;
 
 public class Person {
-    private String name;
-    private LocalDate birthDate;
-    private float height;
+    protected String name;
+    protected LocalDate birthDate;
+    protected float height;
 
     public String getName() {
         return name;
@@ -46,7 +48,7 @@ public class Person {
     }
     @Override
     public String toString() {
-        return "Person{" +
+        return "models.Person{" +
                 "name='" + name + '\'' +
                 ", birthDate=" + birthDate.format(DateTimeFormatter.ofPattern("dd/MM/yyyy")) +
                 ", height=" + height +
