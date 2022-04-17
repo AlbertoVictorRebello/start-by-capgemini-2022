@@ -24,7 +24,8 @@ public class Ex21 {
             newPerson.setHealthCondition(scanner.nextBoolean());
 
             people.add(newPerson);
-            System.out.print("Registered: ");
+            System.out.printf("Registered. This person is %s able to join army.",
+                    newPerson.isHealthCondition() ? "" : "not");
             System.out.println(newPerson);
 
             System.out.println("Please, choose an action:");
