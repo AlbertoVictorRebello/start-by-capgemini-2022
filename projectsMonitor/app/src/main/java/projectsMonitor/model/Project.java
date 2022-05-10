@@ -17,6 +17,9 @@ public class Project {
     private Date createdAt;
     private Date updatedAt;
 
+    public Project() {
+        this.createdAt = new Date();
+    }
     public Project(int id, String name, String description, Date createdAt, Date updatedAt) {
         this.id = id;
         this.name = name;
@@ -64,10 +67,14 @@ public class Project {
     public void setUpdatedAt(Date updatedAt) {
         this.updatedAt = updatedAt;
     }
+    
+    public void setUpdatedAt() {
+        this.updatedAt = new Date();
+    }
 
     @Override
     public String toString() {
-        return "Project{" + "id=" + id + ", name=" + name + ", description=" + description + ", createdAt=" + createdAt + ", updatedAt=" + updatedAt + '}';
+        return this.name;
     }
     
     

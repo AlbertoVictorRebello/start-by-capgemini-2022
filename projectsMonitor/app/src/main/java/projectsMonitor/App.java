@@ -3,12 +3,75 @@
  */
 package projectsMonitor;
 
+import java.util.Date;
+import java.util.List;
+import projectsMonitor.controller.ProjectController;
+import projectsMonitor.controller.TaskController;
+import projectsMonitor.model.Project;
+import projectsMonitor.model.Task;
+import projectsMonitor.view.MainScreen;
+import projectsMonitor.view.ProjectDialogScreen;
+
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Initializing Projects Monitor...";
     }
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
+        
+        MainScreen mainScreen = new MainScreen();
+        mainScreen.setVisible(true);
+
+        
+//        ProjectController projectController = new ProjectController();
+//        String num1 = "0";
+//        String num2 = "1";          
+//        String projectName = "Test Project " + num1;
+//        String projectDescription = "Description " + num1;
+        
+//        
+//        
+//        
+//        Project project = new Project();
+//        project.setName(projectName);
+//        project.setDescription(projectDescription);
+//        projectController.save(project);  
+//        
+//        project = projectController.getProjectByName(projectName);
+//        project.setName(projectName + num2);
+//        project.setDescription(projectDescription + num2);
+//        projectController.update(project);
+//        
+//        List<Project> projects = projectController.getAll();
+//        System.out.println("Number of projects: " + projects.size());
+        
+//        projectController.removeById(7);
+
+//
+//        TaskController taskController = new TaskController();
+//        String taskName = "Test task " + num1;
+//        String taskDescription = "Task description " + num1;
+//        
+//        Task task = new Task();
+//        task.setProjectId(8);
+//        task.setName(taskName);
+//        task.setDescription(taskDescription);
+//        task.setNotes("");
+//        task.setCompleted(false);
+//        task.setDeadline(new Date());
+//        task.setCreatedAt(new Date());
+//        task.setUpdatedAt(new Date());
+//        taskController.save(task);
+        
+//        List<Task> tasks = taskController.getAll(8);
+//        System.out.println("Number of tasks: " + tasks.size());
+//        task.setId(tasks.get(0).getId());
+//        task.setNotes("Updated");
+//        taskController.update(task);
+//        System.out.println("Number of tasks: " + tasks.size());
+//        taskController.removeById(8, 2);
+//          
+          
     }
 }

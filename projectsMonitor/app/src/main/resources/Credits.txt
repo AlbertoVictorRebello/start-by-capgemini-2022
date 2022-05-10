@@ -1,0 +1,10 @@
+Icons from https://www.flaticon.com
+<a href="https://www.flaticon.com/free-icons/google-plus" title="google plus icons">Google plus icons created by Pixel perfect - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/cross" title="cross icons">Cross icons created by Pixelmeetup - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/pencil" title="pencil icons">Pencil icons created by Freepik - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/to-do-list" title="to do list icons">To do list icons created by Dighital - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/check-mark" title="check mark icons">Check mark icons created by Ian June - Flaticon</a>
