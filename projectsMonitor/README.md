@@ -1,6 +1,6 @@
 
 <div>
-  <img src="./.img/fotoCapa.jpg" alt="Start By Capgemini" width="100%" align-self="center" margin="0px"> 
+  <img src="././.img/fotoCapa.jpg" alt="Start By Capgemini" width="100%" align-self="center" margin="0px"> 
 </div>
 
 # Presentation
